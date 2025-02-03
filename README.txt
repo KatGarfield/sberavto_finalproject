@@ -51,7 +51,11 @@ folder 'data\' contains:
 
    df_reference.csv
       This file contains categorical column values and their probabilities of target action,
-      these probabilities are used to replace categorical values at data preprocessing stage;
+      these probabilities are used to replace categorical values at data preprocessing stage.
+      This model is an introduction DS course final project completed in 2023.
+      The author had no previous knowledge of TargetEncoder and python classes.
+      This was a general idea of using probabilities with the help of familiar simple tools.
+      Obviously with experience in Target Encoding some steps are superfluous;
 
    df_previous_activity.csv
       This file contains valuable previous sessions information per client and visit_number
